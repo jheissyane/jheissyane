@@ -1,9 +1,10 @@
-<h1 align="center">⚡Hello, I'm Jheissyane⚡</h1>
-<h3 align="center"> Software Engineering Student</h3>
+<img align="right" alt="flower" width="50" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjgyZWJzMDhvNWw1ajF1anJyNTA5NnR5aWJxMmNsdHc3c2duNTVqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f6bOKu5jYObBYFK1TB/giphy.gif">
+<h1 align="center">Hello, I'm Jheissyane</h1>
+<h3 align="center">Software Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
 - 🌱 I’m currently learning **Javascript and Java**
-- 📫 How to reach me **jheissyanekelly@gmail.com**
+- 📫 How to reach me: **jheissyanekelly@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
