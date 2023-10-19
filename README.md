@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 
-- 🌱 I’m currently learning **Javascript and Java**
+- 🌱 I’m currently learning **Web Development**
 - 📫 How to reach me: **jheissyanekelly@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
